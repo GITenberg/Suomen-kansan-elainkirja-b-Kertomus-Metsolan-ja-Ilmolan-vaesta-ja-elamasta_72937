@@ -1,0 +1,29 @@
+_repo: Suomen-kansan-elainkirja-b-Kertomus-Metsolan-ja-Ilmolan-vaesta-ja-elamasta_72937
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Railo, Eino
+    alias: Iisalo, Osmo
+    birthdate: 1884
+    deathdate: 1948
+    gutenberg_agent_id: '46473'
+    url: http://www.gutenberg.org/2009/agents/46473
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Railo
+description: ''
+gutenberg_issued: '2024-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72937'
+language: fi
+pgterms:marc905: 20240112015101iisalo
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Suomen kansan eläinkirja : $b Kertomus Metsolan ja Ilmolan väestä ja elämästä'
+url: http://www.gutenberg.org/ebooks/72937
